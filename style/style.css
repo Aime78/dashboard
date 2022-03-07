@@ -127,7 +127,7 @@ svg {
 }
 
 .picture {
-    background-image: url(michael-dam.jpeg);
+    background-image: url(../michael-dam.jpeg);
     background-position: center;
     background-size: cover;
     width: 40px;
@@ -136,7 +136,7 @@ svg {
 }
 
 .profile-picture {
-    background-image: url(michael-dam.jpeg);
+    background-image: url(../images/michael-dam.jpeg);
     background-position: center;
     background-size: cover;
     width: 50px;
@@ -228,7 +228,7 @@ p {
 }
 
 .tegan-picture {
-    background-image: url(allef.jpeg);
+    background-image: url(../images/allef.jpeg);
     background-position: center;
     background-size: cover;
     width: 40px;
@@ -237,7 +237,7 @@ p {
 }
 
 .kendal-picture {
-    background-image: url(prince-akachi.jpeg);
+    background-image: url(../images/prince-akachi.jpeg);
     background-position: center;
     background-size: cover;
     width: 40px;
@@ -246,7 +246,7 @@ p {
 }
 
 .alex-picture {
-    background-image: url(haitham.jpeg);
+    background-image: url(../images/allef.jpeg);
     background-position: center;
     background-size: cover;
     width: 40px;
